@@ -1,0 +1,13 @@
+{
+    "name": "cooker/ip",
+    "type": "library",
+    "license": "LGPL-3.0",
+    "autoload": {
+        "psr-4": {
+            "Cooker\\Tools\\IP\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=5.6"
+    },
+}
